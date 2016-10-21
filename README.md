@@ -9,11 +9,19 @@ Features:
 Makes = { } able to minimize
 
 Color codes:
+
 Comments - Light Green
+
 Effects - Light Blue
+
 Event syntax & utility functions - Purple
+
 Scopes - Blue
+
 Triggers - Orange
+
 Strings - Gray
+
 Parameters - Swampy Green
+
 Fleet Actions - Red with Green background
